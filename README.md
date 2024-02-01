@@ -1,2 +1,2 @@
 # project-recipes
-The Odin Project - Recipes Project
+The Odin Project git - Recipes Project
